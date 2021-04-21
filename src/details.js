@@ -7,7 +7,7 @@ window.onload= () => {
     if (window.location.search !== '') {
         const id = window.location.search.split('=')[1];
         http 
-                .get('https://607c1c5267e6530017573ae4.mockapi.io/db/' + id)
+                .get("https://607c1c5267e6530017573ae4.mockapi.io/db?id=" + id)
                 .then((data) => ui.showDetails(data))
     }
 }
