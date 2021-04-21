@@ -176,34 +176,34 @@ class UI {
 
     //show details for all products
 
-    showDetails(products){
+    showDetails(product){
         let output ='';
         output = `
                     <div class="card-wrapper">
                             <div class="product-imgs">
                                 <div class="img-display">
                                     <div class="img-showcase">
-                                    <img src="${products.image}" id="image" class="w-100" />
+                                    <img src="${product[0].image}" id="image" class="w-100" />
                                     </div>
                                 </div>
                             </div>
                                 <div class="product-content">
-                                    <h2 class="product-title">${products.title}</h2>
+                                    <h2 class="product-title">${product[0].title}</h2>
                                     <div class="product-price">
-                                        <p class="blue-price">Price: <span>${products.price} Ron</span></p>
+                                        <p class="blue-price">Price: <span>${product[0].price} Ron</span></p>
                                     </div>
                                     <div class="product-detail">
                                         <h2>about this item:</h2>
-                                        <p>${products.description}</p>
+                                        <p>${product[0].description}</p>
                                         <ul class="product-desc">
-                                            <li>Quantity available: <span>${products.quantity}</span></li>
-                                            <li>Category: <span>${products.category}</span></li>
+                                            <li>Quantity available: <span>${product[0].quantity}</span></li>
+                                            <li>Category: <span>${product[0].category}</span></li>
                                             <li>Shipping Area: <span>All over the world</span></li>
                                             <li>Shipping Fee: <span>Free</span></li>
                                         </ul>
                                     </div>
                                     <div class="purchase-info">
-                                        <button type="button" class="btn" id="${products.id}" >Add to Cart <i class="fas fa-shopping-cart"></i></button>
+                                        <button type="button" class="btn" id="${product[0].id}" >Add to Cart <i class="fas fa-shopping-cart"></i></button>
                                     </div>
                                 </div>
                     </div>
