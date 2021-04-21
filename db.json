@@ -1,0 +1,355 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "iPhone 12 Pro Max",
+      "price": 6399,
+      "description": "Model 128 GB Color pacific blue",
+      "category": "iPhone",
+      "quantity": 200,
+      "image": "images/iphone_12_pro_max_pacific_blue.jpg"
+    },
+    {
+      "id": 2,
+      "title": "iPhone 12 Pro",
+      "price": 5799,
+      "description": "Model 128 GB, Color gold",
+      "category": "iPhone",
+      "quantity": 200,
+      "image": "images/iphone_12_pro_gold.jpg"
+    },
+    {
+      "id": 3,
+      "title": "iPhone 12",
+      "price": 4299,
+      "description": "Model 128 GB, Color red",
+      "category": "iPhone",
+      "quantity": 200,
+      "image": "images/iphone_12__p_red.jpg"
+    },
+    {
+      "id": 4,
+      "title": "iPhone 12 Mini",
+      "price": 3699,
+      "description": "Model 128 GB, Color White",
+      "category": "iPhone",
+      "quantity": 200,
+      "image": "images/iphone_12_mini_green.jpg"
+    },
+    {
+      "id": 5,
+      "title": "iPhone 11 Pro Max",
+      "price": 6999,
+      "description": "Model 512 GB, Color Midnight green",
+      "category": "iPhone",
+      "quantity": 200,
+      "image": "images/iphone_11_pro_max_midnight_green.jpg"
+    },
+    {
+      "id": 6,
+      "title": "iPhone 11 Pro",
+      "price": 5999,
+      "description": "Model 512 GB, Color Midnight green",
+      "category": "iPhone",
+      "quantity": 200,
+      "image": "images/iphone_11_pro_max_midnight_green.jpg"
+    },
+    {
+      "id": 7,
+      "title": "iPhone 11",
+      "price": 3199.01,
+      "description": "Model 64 GB Color Black",
+      "category": "iPhone",
+      "quantity": 200,
+      "image": "images/iphone_11_black.jpg"
+    },
+    {
+      "id": 8,
+      "title": "iPhone SE",
+      "price": 2249,
+      "description": "Model 64 GB Color Red",
+      "category": "iPhone",
+      "quantity": 200,
+      "image": "images/iphonese.jpg"
+    },
+    {
+      "id": 9,
+      "title": "iPhone XS Max",
+      "price": 5999,
+      "description": "Model 256 GB Color Gold",
+      "category": "iPhone",
+      "quantity": 200,
+      "image": "images/phone-xs-max-gold.jpg"
+    },
+    {
+      "id": 10,
+      "title": "iPhone 7S",
+      "price": 1699,
+      "description": "Model 32 GB Color Gold",
+      "category": "iPhone",
+      "quantity": 200,
+      "image": "images/iphone-7s.jpg"
+    },
+    {
+      "id": 11,
+      "title": "iPhone 7",
+      "price": 1599,
+      "description": "Model 32 GB Color Silver",
+      "category": "iPhone",
+      "quantity": 200,
+      "image": "images/iphone-6s-space-gray.jpg"
+    },
+    {
+      "id": 12,
+      "title": "iPhone 12",
+      "price": 4299,
+      "description": "Model 124 GB Color Blue",
+      "category": "iPhone",
+      "quantity": 200,
+      "image": "images/iphone_12_blue.jpg"
+    },
+    {
+      "id": 13,
+      "title": "MacBook Air 13",
+      "price": 3999,
+      "description": "Procesor dual-core Intel Core i5",
+      "category": "mac",
+      "quantity": 200,
+      "image": "images/mba-retina2017.jpg",
+      "power": "Turbo Boost până la 2,9 GHz and 8‑core Neural Engine",
+      "ram": "8GB unified memory",
+      "hard": "128GB stocare SSD",
+      "monitor": "Intel HD Graphics 6000"
+    },
+    {
+      "id": 14,
+      "title": "MacBook Air 13.3",
+      "price": 5499,
+      "description": "Procesor Apple M1 chip cu 7-core",
+      "category": "mac",
+      "quantity": 200,
+      "image": "images/macbook_air_space_gray.jpg",
+      "power": "7‑core GPU, and 16‑core Neural Engine",
+      "ram": "8GB unified memory",
+      "hard": "256GB stocare SSD",
+      "monitor": "Ecran Retina True Tone"
+    },
+    {
+      "id": 15,
+      "title": "MacBook Air 13.3",
+      "price": 6399,
+      "description": "Procesor Apple M1 chip cu 8-core",
+      "category": "mac",
+      "quantity": 200,
+      "image": "images/macbook_air_space_gray_pdp.jpg",
+      "power": "8‑core GPU, and 16‑core Neural Engine",
+      "ram": "8GB unified memory",
+      "hard": "512GB stocare SSD",
+      "monitor": "Ecran Retina True Tone"
+    },
+    {
+      "id": 16,
+      "title": "MacBook Air 13.3",
+      "price": 9139,
+      "description": "M1 Chip 8-Core CPU 256GB SSD",
+      "category": "mac",
+      "quantity": 200,
+      "image": "images/macbook_air_blush.jpg",
+      "power": "Turbo Boost până la 3,5 GHz 8‑core GPU",
+      "ram": "16GB unified memory",
+      "hard": "1TB SSD",
+      "monitor": "Ecran Retina True Tone"
+    },
+    {
+      "id": 17,
+      "title": "MacBook Air Retina",
+      "price": 4999,
+      "description": "Procesor quad-core Intel Core i5",
+      "category": "mac",
+      "quantity": 200,
+      "image": "images/mba13-gold.jpeg",
+      "power": "Turbo Boost până la 3,2 GHz",
+      "ram": "8 GB de memorie integrată LPDDR4X",
+      "hard": "256GB stocare SSD",
+      "monitor": "Ecran Retina True Tone"
+    },
+    {
+      "id": 18,
+      "title": "MacBook Air Retina",
+      "price": 4999,
+      "description": "Procesor quad-core Intel Core i5",
+      "category": "mac",
+      "quantity": 200,
+      "image": "images/mba13.jpg",
+      "power": "Turbo Boost până la 3,2 GHz",
+      "ram": "8 GB de memorie integrată LPDDR4X",
+      "hard": "256GB stocare SSD",
+      "monitor": "Ecran Retina True Tone"
+    },
+    {
+      "id": 19,
+      "title": "iMac 21.5-inch",
+      "price": 6999,
+      "description": "Intel Core i3 processor",
+      "category": "mac",
+      "quantity": 200,
+      "image": "images/imac-21.jpg",
+      "power": "3.6GHz quad-core 8g",
+      "ram": "8GB 2400MHz memorie integrată LPDDR4X",
+      "hard": "256GB SSD storage",
+      "monitor": "Retina 4K 4096-by-2304 P3"
+    },
+    {
+      "id": 20,
+      "title": "iMac 21.5-inch",
+      "price": 7899,
+      "description": "Turbo Boost de până la 3.0GHz",
+      "category": "mac",
+      "quantity": 200,
+      "image": "images/imac-21-cto.jpg",
+      "power": "3.0GHz 6-core 8g",
+      "ram": "8GB 2666MHz memorie integrată LPDDR4X",
+      "hard": "256GB SSD storage",
+      "monitor": "Retina 4K 4096-by-2304 P3"
+    },
+    {
+      "id": 21,
+      "title": "iMac Pro",
+      "price": 26599,
+      "description": "Turbo Boost de până la 4,2 GHz",
+      "category": "mac",
+      "quantity": 200,
+      "image": "images/imac-pro.jpeg",
+      "power": "3.0GHz 10-core Intel Xeon W 4,5 GHz",
+      "ram": "32 GB de memorie DDR4 ECC",
+      "hard": "1TB stocare SSD",
+      "monitor": "Apple 27-inch iMac Pro Retina 5K"
+    },
+    {
+      "id": 22,
+      "title": "iPad Pro 2020 ",
+      "price": 4489,
+      "description": "Model 128 GB Color Gray",
+      "category": "iPad",
+      "quantity": 200,
+      "image": "images/wwen_ipad_pro_2nd.jpg"
+    },
+    {
+      "id": 23,
+      "title": "iPad Pro 2020",
+      "price": 4799,
+      "description": "Model 256 GB Wi-Fi",
+      "category": "iPad",
+      "quantity": 200,
+      "image": "images/wwen_ipad_pro_2nd_generation_gps.jpg"
+    },
+    {
+      "id": 24,
+      "title": "iPad Pro 2018",
+      "price": 3999,
+      "description": "Model 1TB Color Silver",
+      "category": "iPad",
+      "quantity": 200,
+      "image": "images/new-_0005_ipad-pro-11.jpg"
+    },
+    {
+      "id": 25,
+      "title": "iPad Air 4",
+      "price": 3699,
+      "description": "Model 64 GB Color Green",
+      "category": "iPad",
+      "quantity": 200,
+      "image": "images/ipad-air-select-wifi-green.jpg"
+    },
+    {
+      "id": 26,
+      "title": "iPad Air 4",
+      "price": 4699,
+      "description": "Model 256 GB Color Gold Pink",
+      "category": "iPad",
+      "quantity": 200,
+      "image": "images/ipad-air-select-wifi-gold-202009.jpg"
+    },
+    {
+      "id": 27,
+      "title": "iPad Air 3",
+      "price": 2699,
+      "description": "Model 64 GB Color Silver",
+      "category": "iPad",
+      "quantity": 200,
+      "image": "images/ipad_air_10_59.jpg"
+    },
+    {
+      "id": 28,
+      "title": "iPad Air Gen 8",
+      "price": 2399,
+      "description": "Model 32 GB Cellular",
+      "category": "iPad",
+      "quantity": 200,
+      "image": "images/ipad-2020-spacegrey-cell_1.jpg"
+    },
+    {
+      "id": 29,
+      "title": "Apple Watch Series 6",
+      "price": 2260,
+      "description": "Model 44mm Gps Red",
+      "category": "watch",
+      "quantity": 200,
+      "image": "images/apple_watch_series_6_gps_44mm.jpg"
+    },
+    {
+      "id": 30,
+      "title": "Apple Watch Series 6 Nike",
+      "price": 2360,
+      "description": "Model 44mm Gps Black",
+      "category": "watch",
+      "quantity": 200,
+      "image": "images/apple_watch_nike_series_6_gps_40mm_space_gray_aluminum_anthracite.jpg"
+    },
+    {
+      "id": 31,
+      "title": "Apple Watch Series 5",
+      "price": 2199,
+      "description": "Model 44mm Gps + Celular",
+      "category": "watch",
+      "quantity": 200,
+      "image": "images/mwwe2wba-01_big.jpg"
+    },
+    {
+      "id": 32,
+      "title": "Apple Watch Series 5",
+      "price": 1789,
+      "description": "Model 44mm Gps Aluminium Case with Pink Sand Sport Band ",
+      "category": "watch",
+      "quantity": 200,
+      "image": "images/apple_watch_series_5_gps_gold.jpg"
+    },
+    {
+      "id": 33,
+      "title": "Apple Watch Series 5",
+      "price": 1648,
+      "description": "Model 40mm Gps Gold Case ",
+      "category": "watch",
+      "quantity": 200,
+      "image": "images/apple_watch_series_5_gps_gold_aluminum_40.jpg"
+    },
+    {
+      "id": 34,
+      "title": "Apple Watch Series 5",
+      "price": 1648,
+      "description": "Model 40mm Gps Nike Black",
+      "category": "watch",
+      "quantity": 200,
+      "image": "images/apple_watch_series_5_gpss.jpg"
+    },
+    {
+      "id": 35,
+      "title": "Apple Watch Nike SE",
+      "price": 1599,
+      "description": "Model 44mm Gps Nike Black",
+      "category": "watch",
+      "quantity": 200,
+      "image": "images/apple_watch_nike_se_gps_40mm_space_gray_aluminum_anthracite_black_nike_sport_band_pdp_image.jpg"
+    }
+  ]
+}
